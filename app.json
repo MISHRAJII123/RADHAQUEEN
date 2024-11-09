@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/MISHRAJII123/SARKARMUSIC",
+        "value": "https://github.com/MISHRAJII123/RADHAQUEEN",
         "required": true
       },
       "UPSTREAM_BRANCH": {
