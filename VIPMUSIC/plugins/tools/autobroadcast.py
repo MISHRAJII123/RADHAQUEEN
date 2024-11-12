@@ -11,12 +11,16 @@ AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
 START_IMG_URLS = "https://graph.org/file/099a1a58e21a817bd163b-1f4320a432bf0724c2.jpg"
 
-MESSAGE = f"""๏꯭ P꯭ᴀɪ꯭ᴅ꯭ P꯭ʀ꯭ᴏ꯭ᴍ꯭ᴏ꯭ᴛ꯭ɪ꯭ᴏɴ꯭s꯭꯭ ꯭ᴀᴠ꯭ᴀɪ꯭ʟᴀ꯭ʙ꯭ʟ꯭ᴇ 
+MESSAGE = f"""Paid Promotion Available Via Music Bots:
 
-➻ Pʀᴏᴍᴏᴛᴇ ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘs, ᴄᴏʟᴏᴜʀ ᴛʀᴀᴅɪɴɢ ɢᴀᴍᴇs, ᴄʜᴀɴɴᴇʟs, ʙᴇᴛᴛɪɴɢ ᴀᴅs ᴏʀ ᴀɴʏᴛʜɪɴɢ. 
-๏ ᴅᴀɪʟʏ , ᴡᴇᴇᴋʟʏ , ᴍᴏɴᴛʜʟʏ ᴘʟᴀɴs ᴀᴠᴀɪʟᴀʙʟᴇ. 
+[Chatting Groups, Color Trading Games, Channels, Betting Ads or Anything] 
 
-➻𝐃𝐌 @ll_SARKAR_MERA_BABU_ll"""
+Promote Anything You Want On Our Platform With Best Plans And Proper Services.✅️
+
+Daily and Weekly  Plans Available For Big Businesses At Best Possible Conditions.✅️
+
+Dm - @ll_SARKAR_MERA_BABU_ll
+       @ll_SARKAR_MERA_BABU_ll"""
 
 BUTTON = InlineKeyboardMarkup(
     [
