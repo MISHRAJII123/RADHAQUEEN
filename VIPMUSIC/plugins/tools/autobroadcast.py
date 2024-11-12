@@ -11,7 +11,7 @@ AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
 START_IMG_URLS = "https://graph.org/file/099a1a58e21a817bd163b-1f4320a432bf0724c2.jpg"
 
-MESSAGE = f"""Paid Promotion Available Via Music Bots:
+MESSAGE = f"""𝗣𝗮𝗶𝗱 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗩𝗶𝗮 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁𝘀:
 
 [Chatting Groups, Color Trading Games, Channels, Betting Ads or Anything] 
 
