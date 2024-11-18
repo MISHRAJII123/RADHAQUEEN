@@ -9,7 +9,7 @@ from VIPMUSIC.utils.database import get_served_chats
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
-START_IMG_URLS = "https://graph.org/file/099a1a58e21a817bd163b-1f4320a432bf0724c2.jpg"
+START_IMG_URLS = "https://graph.org/file/09d6bac1ef287149a6972-354bff36801cca8a9c.jpg"
 
 MESSAGE = f"""𝗣𝗮𝗶𝗱 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗩𝗶𝗮 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁𝘀:
 
@@ -20,7 +20,7 @@ Promote Anything You Want On Our Platform With Best Plans And Proper Services.�
 Daily and Weekly  Plans Available For Big Businesses At Best Possible Conditions.✅️
 
 Dm - @ll_SARKAR_OWNER_ll
-       @ll_SARKAR_OWNER_ll"""
+@ll_SARKAR_OWNER_ll"""
 
 BUTTON = InlineKeyboardMarkup(
     [
