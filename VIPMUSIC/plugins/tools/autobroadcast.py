@@ -19,15 +19,15 @@ Promote Anything You Want On Our Platform With Best Plans And Proper Services.�
 
 Daily and Weekly  Plans Available For Big Businesses At Best Possible Conditions.✅️
 
-Dm - @ll_SARKAR_MERA_BABU_ll
-       @ll_SARKAR_MERA_BABU_ll"""
+Dm - @ll_SARKAR_OWNER_ll
+       @ll_SARKAR_OWNER_ll"""
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "➻𝐌ᴏʀᴇ 𝐈ɴғᴏ 𝐃ᴍ 𝐌ᴇ",
-                url=f"https://t.me/ll_SARKAR_MERA_BABU_ll",
+                url=f"https://t.me/ll_SARKAR_OWNER_ll",
             )
         ]
     ]
