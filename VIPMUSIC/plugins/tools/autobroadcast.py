@@ -13,14 +13,21 @@ START_IMG_URLS = "https://graph.org/file/09d6bac1ef287149a6972-354bff36801cca8a9
 
 MESSAGE = f"""𝗣𝗮𝗶𝗱 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗩𝗶𝗮 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁𝘀:
 
-[Chatting Groups, Color Trading Games, Channels, Betting Ads or Anything] 
+[Chatting groups, color trading games, channels, Betting Ads or anything] 
 
-Promote Anything You Want On Our Platform With Best Plans And Proper Services.✅️
+Promote anything you want on our platform with best results.
+Daily , Weekly , Monthly plans available. 
 
-Daily and Weekly  Plans Available For Big Businesses At Best Possible Conditions.✅️
+dm- @ll_SARKAR_OWNER_ll
+@ll_SARKAR_OWNER_ll
 
-Dm - @ll_SARKAR_OWNER_ll
-@ll_SARKAR_OWNER_ll"""
+https://t.me/+Of2Cadet1Sw2NTc1
+https://t.me/+Of2Cadet1Sw2NTc1
+https://t.me/+Of2Cadet1Sw2NTc1
+https://t.me/+Of2Cadet1Sw2NTc1
+https://t.me/+Of2Cadet1Sw2NTc1
+https://t.me/+Of2Cadet1Sw2NTc1
+https://t.me/+Of2Cadet1Sw2NTc1"""
 
 BUTTON = InlineKeyboardMarkup(
     [
