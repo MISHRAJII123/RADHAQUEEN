@@ -18,16 +18,7 @@ MESSAGE = f"""𝗣𝗮𝗶𝗱 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗔𝘃𝗮
 Promote anything you want on our platform with best results.
 Daily , Weekly , Monthly plans available. 
 
-dm- @ll_SARKAR_OWNER_ll
-@ll_SARKAR_OWNER_ll
-
-https://t.me/+Of2Cadet1Sw2NTc1
-https://t.me/+Of2Cadet1Sw2NTc1
-https://t.me/+Of2Cadet1Sw2NTc1
-https://t.me/+Of2Cadet1Sw2NTc1
-https://t.me/+Of2Cadet1Sw2NTc1
-https://t.me/+Of2Cadet1Sw2NTc1
-https://t.me/+Of2Cadet1Sw2NTc1"""
+dm- @ll_SARKAR_OWNER_ll @ll_SARKAR_OWNER_ll"""
 
 BUTTON = InlineKeyboardMarkup(
     [
