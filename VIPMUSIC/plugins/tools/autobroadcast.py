@@ -13,12 +13,13 @@ START_IMG_URLS = "https://graph.org/file/09d6bac1ef287149a6972-354bff36801cca8a9
 
 MESSAGE = f"""𝗣𝗮𝗶𝗱 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗩𝗶𝗮 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁𝘀:
 
-[Chatting groups, color trading games, channels, Betting Ads or anything] 
+[Chatting Groups, Color Trading Games, Channels, Betting Ads or Anything] 
 
-Promote anything you want on our platform with best results.
-Daily , Weekly , Monthly plans available. 
+Promote Anything You Want On Our Platform With Best Plans And Proper Services.✅️
 
-dm- @ll_SARKAR_OWNER_ll @ll_SARKAR_OWNER_ll"""
+Daily and Weekly  Plans Available For Big Businesses At Best Possible Conditions.✅️
+
+Dm - @ll_SARKAR_OWNER_ll @ll_SARKAR_OWNER_ll"""
 
 BUTTON = InlineKeyboardMarkup(
     [
@@ -76,8 +77,8 @@ async def continuous_broadcast():
             except Exception as e:
                 pass
 
-        # Wait for 100000 seconds before next broadcast
-        await asyncio.sleep(100000)
+        # Wait for 10000 seconds before next broadcast
+        await asyncio.sleep(10000)
 
 
 # Start the continuous broadcast loop if AUTO_GCASTS is True
