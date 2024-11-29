@@ -43,7 +43,7 @@ def private_panel(_):
             ),
             InlineKeyboardButton(
                 text="❍ 𝐀ʟʟ 𝐁ᴏᴛs ❍",
-                url=f"https://t.me/TG_NAME_STYLE/4368",
+                url=f"https://t.me/PROMOTION_UPDATE/6",
             )
         ],
         [
