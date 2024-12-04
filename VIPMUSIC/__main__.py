@@ -7,31 +7,21 @@
 #
 # All rights reserved.
 import asyncio
-
 import importlib
 
 
 
 from pyrogram import idle
-
 from pytgcalls.exceptions import NoActiveGroupCall
 
 
-
 import config
-
 from VIPMUSIC import LOGGER, app, userbot
-
 from VIPMUSIC.core.call import VIP
-
 from VIPMUSIC.misc import sudo
-
 from VIPMUSIC.plugins import ALL_MODULES
-
 from VIPMUSIC.utils.database import get_banned_users, get_gbanned
-
 from config import BANNED_USERS
-
 
 
 
@@ -41,7 +31,7 @@ async def init():
     if (
 
         not config.STRING1
-
+     
         and not config.STRING2
 
         and not config.STRING3
