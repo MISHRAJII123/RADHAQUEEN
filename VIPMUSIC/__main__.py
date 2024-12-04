@@ -21,9 +21,14 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER(__name__).error("Assistant client variables not defined, exiting...")
-        exit()
-    await sudo()
+        LOGGER("VIPMUSIC").error(
+            "No Assistant Clients Vars Defined!.. Exiting Process."
+        )
+        return
+    if not config.SPOTIFY_CLIENT_ID and not config.SPOTIFY_CLIENT_SECRET:
+        LOGGER("VIPMUSIC").warning(
+            "No Spotify Vars defined. Your bot won't be able to play spotify queries."
+        )
     try:
         users = await get_gbanned()
         for user_id in users:
