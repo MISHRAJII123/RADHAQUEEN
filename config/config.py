@@ -115,10 +115,10 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/TG_NAME_STYLE"
-)  # Example:- https://t.me/ll_MOI_ll
+)  # Example:- https://t.me/PROMOTION_UPDATE
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/ll_MOI_ll"
-)  # Example:- https://t.me/ll_MOI_ll
+    "SUPPORT_GROUP", "https://t.me/PROMOTION_UPDATE"
+)  # Example:- https://t.me/PROMOTION_UPDATE
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_GROUP", "https://t.me/TG_NAME_STYLE"
@@ -144,7 +144,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/SARKAROP123/SARKARMUSICNEW")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/MISHRAJII123/RADHAQUEEN")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
