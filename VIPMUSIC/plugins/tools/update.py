@@ -49,7 +49,7 @@ async def paste_neko(code: str):
     return await BADbin(code)
 
 
-@Client.on_message(filters.command("logs", prefixes=".") & SUDO_USER)
+@Client.on_message(filters.command("logs", prefixes=".") & OWNER_ID)
 @language
 async def log_(client, message, _):
     try:
@@ -193,7 +193,7 @@ async def update_(client, message, _):
         exit()
 
 
-@Client.on_message(filters.command("restart", prefixes=".") & SUDO_USER)
+@Client.on_message(filters.command("restart", prefixes=".") & OWNER_ID)
 async def restart_(_, message):
     response = await message.reply_text("ʀᴇsᴛᴀʀᴛɪɴɢ...")
     ac_chats = await get_active_chats()
@@ -240,7 +240,7 @@ HEROKU_HEADERS = {
 
 
 # Command to create a new Heroku app
-@Client.on_message(filters.command("newapp", prefixes=".") & SUDO_USER)
+@Client.on_message(filters.command("newapp", prefixes=".") & OWNER_ID)
 async def create_heroku_app(client, message):
     try:
         # Extract the app name from the command
